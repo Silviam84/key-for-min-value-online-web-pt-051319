@@ -16,7 +16,9 @@ describe "smallest hash value" do
     key_for_min_value(hash)
     
     
-    hash { "lily => 5", "Damian => 3, "
+    hash { "lily => 5", "Damian => 3, Anthony => 4 "}
+    .collect (age)
+    
     
     
     
